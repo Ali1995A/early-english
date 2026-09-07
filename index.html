@@ -557,11 +557,11 @@
     .sentence-card {
       background: var(--color-bg);
       border-radius: var(--radius-md);
-      padding: 16px;
+      padding: 18px;
       display: flex;
       justify-content: space-between;
       align-items: flex-start;
-      gap: 12px;
+      gap: 16px;
       transition: all 0.2s;
     }
 
@@ -571,6 +571,28 @@
 
     .sentence-card-main {
       flex: 1;
+      min-width: 0;
+    }
+
+    .sentence-card-content {
+      display: flex;
+      align-items: center;
+      gap: 18px;
+    }
+
+    .sentence-illustration {
+      width: 104px;
+      height: 104px;
+      object-fit: cover;
+      object-position: center;
+      flex: 0 0 auto;
+      border-radius: 18px;
+      background: var(--color-card);
+      border: 3px solid var(--color-card);
+      box-shadow: 0 5px 16px rgba(39, 71, 90, 0.12);
+    }
+
+    .sentence-copy {
       min-width: 0;
     }
 
@@ -608,38 +630,41 @@
     /* Desktop: Table Style */
     @media (min-width: 769px) {
       .sentences-list {
-        display: table;
-        width: 100%;
-        border-collapse: collapse;
+        display: flex;
+        flex-direction: column;
+        gap: 10px;
       }
 
       .sentence-card {
-        display: table-row;
-        background: transparent;
-        padding: 0;
+        display: flex;
+        background: var(--color-bg);
+        padding: 18px 20px;
       }
 
       .sentence-card:hover {
-        box-shadow: none;
+        box-shadow: var(--shadow);
+        transform: translateY(-1px);
       }
 
       .sentence-card-main {
-        display: table-cell;
-        padding: 16px 12px;
-        border-bottom: 1px solid var(--color-bg);
+        display: block;
+        padding: 0;
       }
 
       .sentence-card-meta {
-        display: table-cell;
-        padding: 16px 12px;
-        border-bottom: 1px solid var(--color-bg);
-        vertical-align: middle;
+        display: flex;
+        padding: 0;
         flex-direction: row;
         align-items: center;
       }
 
       .sentence-card .sentence-en {
         margin-bottom: 4px;
+      }
+
+      .sentence-illustration {
+        width: 128px;
+        height: 128px;
       }
     }
 
@@ -1110,6 +1135,11 @@
       .sentence-en {
         font-size: 1rem;
         flex-wrap: wrap;
+      }
+
+      .sentence-illustration {
+        width: 94px;
+        height: 94px;
       }
 
       .vocab-grid {
@@ -1769,11 +1799,16 @@
               ${scene.sentences.map((s, idx) => `
                 <div class="sentence-card">
                   <div class="sentence-card-main">
-                    <div class="sentence-en">
-                      <button class="play-btn" onclick="app.speak(${JSON.stringify(s.en).replace(/"/g, '&quot;')})" title="朗读">▶</button>
-                      <span>${s.en}</span>
+                    <div class="sentence-card-content">
+                      <img class="sentence-illustration" src="assets/sentence-illustrations/scene-${String(scene.id).padStart(2, '0')}-${String(idx + 1).padStart(2, '0')}.png" alt="${s.en} 插画" loading="lazy">
+                      <div class="sentence-copy">
+                        <div class="sentence-en">
+                          <button class="play-btn" onclick="app.speak(${JSON.stringify(s.en).replace(/"/g, '&quot;')})" title="朗读">▶</button>
+                          <span>${s.en}</span>
+                        </div>
+                        <div class="sentence-cn">${s.cn}</div>
+                      </div>
                     </div>
-                    <div class="sentence-cn">${s.cn}</div>
                   </div>
                   <div class="sentence-card-meta">
                     <span class="sentence-tone">${s.tone}</span>

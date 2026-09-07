@@ -1,5 +1,5 @@
 // 幼儿英语口语教程数据
-// 自动生成于 2026-03-22T10:26:50.915Z
+// 自动生成于 2026-09-07T05:59:11.209Z
 
 const courseData = {
   "phases": [
@@ -56,8 +56,8 @@ const courseData = {
               "tone": "↘ 温柔"
             },
             {
-              "en": "Night night!",
-              "cn": "晚安安！",
+              "en": "Sleep well!",
+              "cn": "睡个好觉！",
               "tone": "↘ 亲昵"
             },
             {
@@ -2174,8 +2174,8 @@ const courseData = {
               "tone": "↘ 安慰"
             },
             {
-              "en": "I am tired.",
-              "cn": "我累了。",
+              "en": "I feel sleepy.",
+              "cn": "我困了。",
               "tone": "↘ 困倦"
             },
             {
@@ -2219,8 +2219,8 @@ const courseData = {
               "tone": "↘ 深情"
             },
             {
-              "en": "Good night, Daddy.",
-              "cn": "晚安，爸爸。",
+              "en": "Sleep tight, Daddy.",
+              "cn": "爸爸，睡个好觉。",
               "tone": "↘ 深情"
             },
             {
@@ -3158,8 +3158,8 @@ const courseData = {
               "tone": "↘ 指令"
             },
             {
-              "en": "Sit down.",
-              "cn": "坐下。",
+              "en": "Sit on the potty.",
+              "cn": "坐到小马桶上。",
               "tone": "↘ 指令"
             },
             {
@@ -3208,8 +3208,8 @@ const courseData = {
               "tone": "↘ 指令"
             },
             {
-              "en": "Put on your pants.",
-              "cn": "穿上裤子。",
+              "en": "Put your pants back on.",
+              "cn": "把裤子穿回去。",
               "tone": "↘ 指令"
             },
             {
@@ -3223,8 +3223,8 @@ const courseData = {
               "tone": "↗ 俏皮"
             },
             {
-              "en": "Wash your hands.",
-              "cn": "洗手。",
+              "en": "Wash up, please.",
+              "cn": "请洗洗手。",
               "tone": "↘ 指令"
             },
             {
@@ -3238,8 +3238,8 @@ const courseData = {
               "tone": "↗ 自豪"
             },
             {
-              "en": "Good job!",
-              "cn": "做得好！",
+              "en": "You did it!",
+              "cn": "你做到了！",
               "tone": "↗ 表扬"
             },
             {
@@ -3253,8 +3253,8 @@ const courseData = {
               "tone": "↘ 安慰"
             },
             {
-              "en": "It's okay.",
-              "cn": "没关系。",
+              "en": "No worries.",
+              "cn": "没事的。",
               "tone": "↘ 安慰"
             },
             {
@@ -3719,8 +3719,8 @@ const courseData = {
               "tone": "↘ 舒适"
             },
             {
-              "en": "Dry your hands.",
-              "cn": "擦干手。",
+              "en": "Pat your hands dry.",
+              "cn": "把手轻轻拍干。",
               "tone": "↘ 指令"
             },
             {
@@ -4331,8 +4331,8 @@ const courseData = {
               "tone": "↗ 祝福"
             },
             {
-              "en": "All done!",
-              "cn": "吃完了！",
+              "en": "All finished!",
+              "cn": "都吃完了！",
               "tone": "↗ 完成"
             }
           ],
@@ -4754,8 +4754,8 @@ const courseData = {
               "tone": "↘ 指令"
             },
             {
-              "en": "Use your spoon.",
-              "cn": "用勺子。",
+              "en": "Eat with your spoon.",
+              "cn": "用勺子吃。",
               "tone": "↘ 指令"
             },
             {
@@ -4829,13 +4829,13 @@ const courseData = {
               "tone": "↘ 描述"
             },
             {
-              "en": "I don't like it.",
-              "cn": "我不喜欢这个。",
+              "en": "I don't want this food.",
+              "cn": "我不想吃这个食物。",
               "tone": "↘ 拒绝"
             },
             {
-              "en": "I like it.",
-              "cn": "我喜欢这个。",
+              "en": "I like this food.",
+              "cn": "我喜欢这个食物。",
               "tone": "↗ 喜欢"
             },
             {
@@ -4859,7 +4859,7 @@ const courseData = {
               "tone": "↗ 礼貌请求"
             },
             {
-              "en": "I am done.",
+              "en": "I have finished eating.",
               "cn": "我吃完了。",
               "tone": "↘ 完成"
             },
@@ -5308,8 +5308,8 @@ const courseData = {
               "tone": "↘ 限制"
             },
             {
-              "en": "That's enough.",
-              "cn": "够了。",
+              "en": "No more, thank you.",
+              "cn": "不用了，谢谢。",
               "tone": "↘ 拒绝"
             },
             {
@@ -6369,8 +6369,8 @@ const courseData = {
           "vocabCount": 36,
           "sentences": [
             {
-              "en": "Let's play!",
-              "cn": "我们玩吧！",
+              "en": "Let's play together!",
+              "cn": "我们一起玩吧！",
               "tone": "↗ 邀请"
             },
             {
@@ -7957,8 +7957,8 @@ const courseData = {
               "tone": "↗ 邀请"
             },
             {
-              "en": "One, two, three.",
-              "cn": "一、二、三。",
+              "en": "Let's count: one, two, three.",
+              "cn": "我们数数：一、二、三。",
               "tone": "↗ 数数"
             },
             {
@@ -8510,8 +8510,8 @@ const courseData = {
               "tone": "↘ 描述"
             },
             {
-              "en": "The sky is blue.",
-              "cn": "天空是蓝色的。",
+              "en": "The sky looks blue today.",
+              "cn": "今天的天空看起来是蓝色的。",
               "tone": "↘ 描述"
             },
             {
@@ -9026,7 +9026,7 @@ const courseData = {
             },
             {
               "en": "Hold on tight.",
-              "cn": "抓紧了。",
+              "cn": "抓紧一点。",
               "tone": "↘ 提醒"
             },
             {
@@ -9035,18 +9035,18 @@ const courseData = {
               "tone": "↘ 提醒"
             },
             {
-              "en": "Be careful.",
-              "cn": "小心。",
+              "en": "Keep both hands on.",
+              "cn": "两只手都要扶好。",
               "tone": "↘ 提醒"
             },
             {
-              "en": "Wait your turn.",
-              "cn": "等轮到你。",
+              "en": "Please wait for your turn.",
+              "cn": "请等轮到你。",
               "tone": "↘ 提醒"
             },
             {
-              "en": "It's my turn.",
-              "cn": "轮到我了。",
+              "en": "It's my turn on the slide.",
+              "cn": "轮到我玩滑梯了。",
               "tone": "↘ 声明"
             },
             {
@@ -9145,8 +9145,8 @@ const courseData = {
               "tone": "↘ 提醒"
             },
             {
-              "en": "Five more minutes.",
-              "cn": "再玩五分钟。",
+              "en": "Five more minutes, please.",
+              "cn": "请再玩五分钟。",
               "tone": "↘ 请求"
             }
           ],
@@ -10103,8 +10103,8 @@ const courseData = {
               "tone": "↘ 描述"
             },
             {
-              "en": "The grass is green.",
-              "cn": "草是绿色的。",
+              "en": "The grass feels soft and green.",
+              "cn": "草又软又绿。",
               "tone": "↘ 描述"
             },
             {
@@ -10700,8 +10700,8 @@ const courseData = {
               "tone": "↘ 提醒"
             },
             {
-              "en": "Time for lunch.",
-              "cn": "午餐时间到了。",
+              "en": "It's lunchtime.",
+              "cn": "到午餐时间了。",
               "tone": "↘ 提醒"
             },
             {
@@ -10710,8 +10710,8 @@ const courseData = {
               "tone": "↘ 提醒"
             },
             {
-              "en": "I want my mommy.",
-              "cn": "我想要妈妈。",
+              "en": "I want to see Mommy.",
+              "cn": "我想见妈妈。",
               "tone": "↘ 思念"
             },
             {
@@ -10740,8 +10740,8 @@ const courseData = {
               "tone": "↘ 请求"
             },
             {
-              "en": "Clean up time.",
-              "cn": "收拾时间。",
+              "en": "Time to tidy up.",
+              "cn": "该整理好了。",
               "tone": "↘ 提醒"
             },
             {
@@ -10750,8 +10750,8 @@ const courseData = {
               "tone": "↘ 指令"
             },
             {
-              "en": "Put on your shoes.",
-              "cn": "穿上鞋子。",
+              "en": "Put your shoes on, please.",
+              "cn": "请把鞋子穿上。",
               "tone": "↘ 指令"
             },
             {
@@ -10775,13 +10775,13 @@ const courseData = {
               "tone": "↘ 指令"
             },
             {
-              "en": "Let's go outside.",
-              "cn": "我们出去吧。",
+              "en": "Shall we play outside?",
+              "cn": "我们出去玩吗？",
               "tone": "↗ 邀请"
             },
             {
-              "en": "Let's play together.",
-              "cn": "我们一起玩吧。",
+              "en": "Come and play with us!",
+              "cn": "来和我们一起玩吧！",
               "tone": "↗ 邀请"
             },
             {
@@ -10800,8 +10800,8 @@ const courseData = {
               "tone": "↘ 道别"
             },
             {
-              "en": "See you tomorrow.",
-              "cn": "明天见。",
+              "en": "See you next time.",
+              "cn": "下次见。",
               "tone": "↘ 期待"
             }
           ],
@@ -11209,8 +11209,8 @@ const courseData = {
               "tone": "↗ 邀请"
             },
             {
-              "en": "This is fun.",
-              "cn": "这很好玩。",
+              "en": "Playing together is fun.",
+              "cn": "一起玩真有趣。",
               "tone": "↗ 开心"
             },
             {
@@ -11234,13 +11234,13 @@ const courseData = {
               "tone": "↘ 鼓励"
             },
             {
-              "en": "Can I have a turn?",
-              "cn": "可以轮到我了吗？",
+              "en": "May I have a turn, please?",
+              "cn": "请问可以轮到我吗？",
               "tone": "↗ 请求"
             },
             {
-              "en": "It's my turn.",
-              "cn": "轮到我了。",
+              "en": "Now it's my turn.",
+              "cn": "现在轮到我了。",
               "tone": "↘ 声明"
             },
             {
@@ -11309,7 +11309,7 @@ const courseData = {
               "tone": "↘ 道歉"
             },
             {
-              "en": "It's okay.",
+              "en": "That's all right.",
               "cn": "没关系。",
               "tone": "↘ 原谅"
             },
@@ -11724,8 +11724,8 @@ const courseData = {
               "tone": "↗ 礼貌"
             },
             {
-              "en": "I am sorry.",
-              "cn": "对不起。",
+              "en": "Sorry about that.",
+              "cn": "这件事对不起。",
               "tone": "↘ 道歉"
             },
             {
@@ -12192,8 +12192,8 @@ const courseData = {
               "tone": "↗ 关心"
             },
             {
-              "en": "I am happy.",
-              "cn": "我很开心。",
+              "en": "I feel happy.",
+              "cn": "我感到很开心。",
               "tone": "↗ 积极"
             },
             {
@@ -12217,23 +12217,23 @@ const courseData = {
               "tone": "↗ 积极"
             },
             {
-              "en": "I am tired.",
-              "cn": "我很累。",
+              "en": "I need a rest.",
+              "cn": "我需要休息。",
               "tone": "↘ 消极"
             },
             {
-              "en": "I am hungry.",
-              "cn": "我饿了。",
+              "en": "Could I have a snack?",
+              "cn": "我可以吃点心吗？",
+              "tone": "↗ 请求"
+            },
+            {
+              "en": "I need a drink.",
+              "cn": "我想喝水。",
               "tone": "↘ 直接"
             },
             {
-              "en": "I am thirsty.",
-              "cn": "我渴了。",
-              "tone": "↘ 直接"
-            },
-            {
-              "en": "I am bored.",
-              "cn": "我很无聊。",
+              "en": "I need something to do.",
+              "cn": "我想找点事做。",
               "tone": "↘ 消极"
             },
             {
@@ -12322,8 +12322,8 @@ const courseData = {
               "tone": "↘ 安慰"
             },
             {
-              "en": "Don't be scared.",
-              "cn": "别害怕。",
+              "en": "Don't worry.",
+              "cn": "别担心。",
               "tone": "↘ 安慰"
             },
             {
@@ -14962,23 +14962,23 @@ const courseData = {
               "tone": "↗ 紧急"
             },
             {
-              "en": "Stop!",
-              "cn": "停下！",
+              "en": "Stop right there!",
+              "cn": "立刻停下！",
               "tone": "↗ 紧急"
             },
             {
-              "en": "Don't touch!",
-              "cn": "别碰！",
+              "en": "Hands off!",
+              "cn": "不要碰！",
               "tone": "↗ 警告"
             },
             {
-              "en": "Be careful!",
-              "cn": "小心！",
+              "en": "Stay safe!",
+              "cn": "注意安全！",
               "tone": "↗ 警告"
             },
             {
-              "en": "Watch out!",
-              "cn": "注意！",
+              "en": "Watch where you go!",
+              "cn": "走路要看路！",
               "tone": "↗ 警告"
             },
             {
@@ -15580,8 +15580,8 @@ const courseData = {
               "tone": "↘ 安慰"
             },
             {
-              "en": "Don't be scared.",
-              "cn": "别害怕。",
+              "en": "You're safe here.",
+              "cn": "这里很安全。",
               "tone": "↘ 安慰"
             },
             {
@@ -15590,8 +15590,8 @@ const courseData = {
               "tone": "↘ 安慰"
             },
             {
-              "en": "Open your mouth.",
-              "cn": "张开嘴巴。",
+              "en": "Open wide, please.",
+              "cn": "请把嘴巴张大。",
               "tone": "↘ 指令"
             },
             {
@@ -16133,8 +16133,8 @@ const courseData = {
               "tone": "↗ 询问"
             },
             {
-              "en": "I am five years old.",
-              "cn": "我五岁了。",
+              "en": "I am turning five.",
+              "cn": "我快五岁了。",
               "tone": "↘ 回答"
             },
             {
@@ -16608,8 +16608,8 @@ const courseData = {
               "tone": "↗ 自我介绍"
             },
             {
-              "en": "I am five years old.",
-              "cn": "我五岁了。",
+              "en": "I'm five.",
+              "cn": "我五岁。",
               "tone": "↘ 介绍"
             },
             {
@@ -16618,13 +16618,13 @@ const courseData = {
               "tone": "↗ 自豪"
             },
             {
-              "en": "I have a big family.",
-              "cn": "我有一个大家庭。",
+              "en": "My family is big.",
+              "cn": "我的家人很多。",
               "tone": "↘ 描述"
             },
             {
-              "en": "This is my mom.",
-              "cn": "这是我妈妈。",
+              "en": "This is my mother.",
+              "cn": "这是我的妈妈。",
               "tone": "↘ 介绍"
             },
             {
@@ -16638,23 +16638,23 @@ const courseData = {
               "tone": "↗ 喜好"
             },
             {
-              "en": "My favorite color is red.",
-              "cn": "我最喜欢的颜色是红色。",
+              "en": "Red is my favorite color.",
+              "cn": "红色是我最喜欢的颜色。",
               "tone": "↗ 喜好"
             },
             {
-              "en": "I go to kindergarten.",
-              "cn": "我去幼儿园。",
+              "en": "I go to school.",
+              "cn": "我去上学。",
               "tone": "↘ 陈述"
             },
             {
-              "en": "I have many friends.",
+              "en": "I have lots of friends.",
               "cn": "我有很多朋友。",
               "tone": "↗ 自豪"
             },
             {
-              "en": "I can count to ten.",
-              "cn": "我能数到十。",
+              "en": "I can count from one to ten.",
+              "cn": "我能从一数到十。",
               "tone": "↗ 能力"
             },
             {
@@ -16723,13 +16723,13 @@ const courseData = {
               "tone": "↗ 能力"
             },
             {
-              "en": "I see a dog.",
-              "cn": "我看见一只狗。",
+              "en": "Look, a dog!",
+              "cn": "看，一只狗！",
               "tone": "↘ 观察"
             },
             {
-              "en": "The dog says woof.",
-              "cn": "狗汪汪叫。",
+              "en": "A dog goes \"woof\".",
+              "cn": "小狗会“汪汪”叫。",
               "tone": "↘ 模仿"
             },
             {
@@ -16768,8 +16768,8 @@ const courseData = {
               "tone": "↗ 自豪"
             },
             {
-              "en": "I love my family.",
-              "cn": "我爱我的家人。",
+              "en": "I love my whole family.",
+              "cn": "我爱我的全家。",
               "tone": "↘ 深情"
             },
             {

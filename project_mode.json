@@ -1,0 +1,12 @@
+{
+  "schema_version": "1.0",
+  "project_name": "幼儿英语贴纸整理",
+  "project_mode": "research_report",
+  "mode_reason": "将现有课程网页内容整理为可打印的图文学习贴纸",
+  "created_at": "2026-09-07",
+  "created_by": "Codex",
+  "template_source": "existing early-english workspace",
+  "can_switch_mode": true,
+  "compatible_modes": ["data_automation", "research_report"],
+  "notes": "沿用现有 data.js 与场景卡片，不改变原网页。"
+}
